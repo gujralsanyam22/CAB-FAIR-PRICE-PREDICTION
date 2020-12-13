@@ -102,9 +102,9 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 [<img target="_blank" src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" width=270>](https://www.sentry.io/) [<img target="_blank" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" width=100>](https://jquery.com/)
 
 ## Team
-[![Rohit Swami](https://avatars1.githubusercontent.com/u/16516296?v=3&s=144)](https://gujralsanyam22.com/) |
+[![Sanyam Gujral](/https://github.com/settings/profile)](https://gujralsanyam22.com/) |
 -|
-[Rohit Swami](https://gujralsanyam22.com/) |)
+[![Sanyam Gujral](https://gujralsanyam22.com/) |)
 
 
 ## Credits
